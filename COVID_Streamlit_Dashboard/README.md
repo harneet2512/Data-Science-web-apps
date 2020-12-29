@@ -2,7 +2,6 @@
 
 
 
-## Introduction
 
 India is one of the worst affected nations by the coronavirus outbreak. 
 This tool aims at providing realtime insights on the outbreak in India in the form of interactive charts.
